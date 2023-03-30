@@ -35,7 +35,7 @@ Aspect Systems is your go-to source for cutting-edge cyber security solutions fo
 * Noxia
 
 <p align="center">
-  <img src = "https://i.imgur.com/dL0Sy7i.png" width=700>
+  <img src = "https://i.imgur.com/dL0Sy7i.png" width=150>
 </p>
 
 <p align="center">
