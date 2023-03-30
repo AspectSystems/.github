@@ -1,7 +1,7 @@
 <h1 align="center"> Aspect Systems </h1> <br>
 <p align="center">
   <a href="https://aspectsystems.dev/">
-    <img alt="Aspect" title="Aspect" src="https://i.imgur.com/HKmgKfi.png" width="450">
+    <img alt="Aspect" title="Aspect" src="https://i.imgur.com/HKmgKfi.png" width="280">
   </a>
 </p>
 
