@@ -35,7 +35,7 @@ Aspect Systems is your go-to source for cutting-edge cyber security solutions fo
 Instep is a next-generation anti-exploit, we are mainly focused on blocking all types of injections, executions, and exploits that are developed and tested by our team hundreds of times. Currently developing it on ROBLOX platform. 
 
 * Noxia
-Noxia is your loyal companion, always ready and equipped to defend your server guild against a myriad of threats. Noxia's sophisticated algorithms are constantly evolving to keep up with the latest threats and risks in the online world, ensuring that your server is always protected. 
+Noxia is your loyal companion, always ready and equipped to defend your server guild against a myriad of threats. Noxia's sophisticated algorithms are constantly evolving to keep up with the latest threats and risks in the online world, ensuring that your Discord server is always protected 
 
 <p align="center">
   <img src = "https://i.imgur.com/uYTf5RY.png" width=700>
