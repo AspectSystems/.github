@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Providing Innovative Security.
+  Providing Innovative Security
 </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
