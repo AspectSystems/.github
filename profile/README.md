@@ -43,7 +43,7 @@ Noxia is your loyal companion, always ready and equipped to defend your server g
 
 ## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/aspectsofficial) or [Discord](https://discord.gg/aspect-systems-930476025933070356). Feature requests are always welcome. If you wish to join us, please take a quick look at [our Discord server](https://discord.gg/aspect-systems-930476025933070356)!
+Feel free to send us feedback on [Twitter](https://twitter.com/aspectsoffical) or [Discord](https://discord.gg/aspect-systems-930476025933070356). Feature requests are always welcome. If you wish to join us, please take a quick look at [our Discord server](https://discord.gg/aspect-systems-930476025933070356)!
 
 ## Team
 
