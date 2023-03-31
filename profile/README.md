@@ -26,7 +26,7 @@ Aspect Systems is your go-to source for cutting-edge cyber security solutions fo
 **Relax and leave the security to Aspect.**
 
 <p align="center">
-  <img src = "https://imgur.com/a/GVTokI0.png" width=350>
+  <img src = "https://cdn.discordapp.com/attachments/1062128958830809238/1091346429907308574/Main_Full_logo_size.png" width=350>
 </p>
 
 ## Services
